@@ -23,4 +23,3 @@ while i <= Nrange:
     i += 1
 
 print("\n")
-x = 1 / 0
